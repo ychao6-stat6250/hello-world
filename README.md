@@ -1,3 +1,3 @@
 # hello-world
-This is my first repository.\n
+This is my first repository.
 SAS is my first time to learn. 
